@@ -1,0 +1,68 @@
+ AWS Cloud Deployment Project
+
+Project Overview
+
+This project demonstrates the deployment of a cloud-based application using Amazon Web Services (AWS). The objective was to design and implement a scalable, secure, and highly available cloud architecture capable of hosting and managing application workloads efficiently.
+
+The system leverages core AWS services to simulate real-world cloud infrastructure used in modern enterprise environments.
+
+---
+
+ Objectives
+
+* Deploy applications on cloud infrastructure
+* Implement scalable and reliable hosting solutions
+* Understand cloud networking and storage services
+* Apply DevOps and cloud deployment best practices
+
+---
+ AWS Services Used
+
+* **Amazon EC2** – Virtual server hosting
+* **Amazon S3** – Cloud storage for application assets and data
+* **AWS IAM** – Secure access management
+* **Security Groups** – Network traffic control
+* **Elastic IP** – Public access configuration
+
+---
+
+Architecture Overview
+
+The application is deployed on an EC2 instance configured with required runtime dependencies. Static resources and datasets are stored in Amazon S3, enabling scalable storage and efficient data access.
+
+Users access the application through a public endpoint secured via AWS networking configurations.
+
+---
+
+Key Features
+
+✅ Cloud-based deployment
+✅ Scalable infrastructure setup
+✅ Secure access configuration
+✅ Persistent cloud storage integration
+✅ Real-world AWS environment simulation
+
+---
+
+ Skills Demonstrated
+
+* Cloud Computing (AWS)
+* Infrastructure Deployment
+* Linux Server Management
+* Networking & Security Configuration
+* DevOps Fundamentals
+* Application Hosting
+
+---
+ Future Improvements
+
+* Auto Scaling implementation
+* Load Balancer integration
+* CI/CD pipeline using AWS CodePipeline
+* Docker container deployment
+
+---
+
+ Author
+
+Joel Praveen
